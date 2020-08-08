@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">productInfo</string>
+    <string name="product_desckid1">The Natural History Museum looks after around 80 million specimens, from dodos to dandelions, dinosaurs to dragonflies.
+        It is one of the world's most important collections of natural history.\n
+        Color shown: Green\nCountry/Region of Origin: China</string>
+    <string name="product_desckid2">Find your favourite costumed LEGO minifigure on our hugely popular UT.\n
+        Color shown: White\nCountry/Region of Origin: China</string>
+    <string name="product_desckid3">Bomber jacket in satin with a printed pattern. Small stand-up collar, zipper at front, long raglan sleeves, and discreet side-seam pockets.
+        Ribbing with a glittery edge at collar, cuffs, and hem. Lined.\n
+        Color Shown: Light pink\nCountry/Region of Origin: China</string>
+    <string name="product_desckid4">Lightweight, boxy sweatshirt with a printed flock design at front. Hood, dropped shoulders, and long sleeves with ribbed cuffs.\n
+        Color shown: Apricot/zebra\nCountry/Region of Origin: Turkey</string>
+
+</resources>
